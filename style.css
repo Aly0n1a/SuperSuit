@@ -1,0 +1,80 @@
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    background-image: url(./img/Frame\ 7\ 1\ \(1\).jpg);
+
+}
+
+.container{
+    width: 1024px;
+    padding: 50px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.nav_about{
+    background-color: #fff;
+}
+
+span{
+    color: #ffca33;
+}
+
+.nav_btn{
+    background: #ffca33;
+    border: #ffca33;
+    width: 258px;
+    height: 48px;
+    color: #fff;
+    
+}
+
+.nav{
+    display: flex;
+
+}
+
+.nav_text{
+    font-weight: 700;
+font-size: 52px;
+line-height: 140%;
+}
+
+.work_text{
+    text-align: center;
+    font-weight: 700;
+font-size: 42px;
+line-height: 140%;
+text-align: center;
+color: #041a3f;
+}
+
+.card{
+    text-align:center;
+    border-radius: 20px;
+width: 321px;
+height: 599px;
+margin: 5px;
+border: solid white 2px;
+border-radius: 5px;
+background-color: #fff;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 128px;
+}
+
+.cart_text_red{
+    color: red;
+
+}
+
+.work{
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
